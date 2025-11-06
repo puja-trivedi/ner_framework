@@ -16,7 +16,7 @@ agents:
       frequency_penalty: 0.1
       temperature: 0.5
       seed: 53
-      api_key: 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
+      api_key: 
 
   # - id: evidence_extractor_agent
   #   output_variable: evidence_list
@@ -34,4 +34,4 @@ agents:
   #     frequency_penalty: 0.1
   #     temperature: 0.5
   #     seed: 53
-  #     api_key: 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
+  #     api_key: 
